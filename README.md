@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+-   [基于 vue 的 h5 前端架构设计](#%E5%9F%BA%E4%BA%8E-vue-%E7%9A%84-h5-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)
+    -   [1.响应式布局实现](#1%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80%E5%AE%9E%E7%8E%B0)
+    -   [2.自定义设置中心：](#2%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AE%BE%E7%BD%AE%E4%B8%AD%E5%BF%83)
+    -   [3. vue.config.js 自定义配置](#3-vueconfigjs-%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE)
+    -   [4.axios 封装](#4axios-%E5%B0%81%E8%A3%85)
+    -   [5.打包到不同的环境](#5%E6%89%93%E5%8C%85%E5%88%B0%E4%B8%8D%E5%90%8C%E7%9A%84%E7%8E%AF%E5%A2%83)
+    -   [6.全局组件](#6%E5%85%A8%E5%B1%80%E7%BB%84%E4%BB%B6)
+    -   [7.实例代码链接](#7%E5%AE%9E%E4%BE%8B%E4%BB%A3%E7%A0%81%E9%93%BE%E6%8E%A5)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 基于 vue 的 h5 前端架构设计
 
 ## 1.响应式布局实现
@@ -243,3 +257,7 @@ requireComponent.keys().forEach((fileName) => {
 
 
 ```
+
+## 7.实例代码链接
+
+[基于 vue 的 h5 前端架构设计](https://github.com/haoshuaiya/vue-h5)
